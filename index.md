@@ -4,7 +4,7 @@ layout: page
 ---
 # Simple JS Image Classifiers
 
--[Single file](./HTML/singlefile.html) h/t nuvic
+-[Single file](./HTML/singlefile.html) 
 
 
 
